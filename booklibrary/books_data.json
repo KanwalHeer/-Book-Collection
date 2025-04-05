@@ -1,0 +1,16 @@
+[
+    {
+        "title": "new book",
+        "author": "new auther",
+        "year": "2025",
+        "genre": "the book",
+        "read": false
+    },
+    {
+        "title": "book1",
+        "author": "auther1",
+        "year": "2003",
+        "genre": "the book1",
+        "read": false
+    }
+]
